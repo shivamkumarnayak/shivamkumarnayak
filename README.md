@@ -1,6 +1,6 @@
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
 
-<h1 align="center">Hi , I'm Shivam</h1>
+<h1 align="center">Hi 👋, I'm Shivam</h1>
 <h3 align="center">I'm a passionate Web Developer from India.</h3>
 
 
