@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Crypto Face College Project**
+- 🔭 I’m currently working on **Local Grocery College Project**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
