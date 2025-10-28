@@ -1,7 +1,7 @@
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
 
-<h1 align="center">Hi 👋, I'm Shivam Nayak</h1>
-<h3 align="center">💻 Passionate App Developer specializing in Flutter and React Native from India 🇮🇳</h3>
+<h1 align="center">Hi 👋, I'm Shivam Kumar Nayak</h1>
+<h3 align="center">💻 Passionate App Developer specializing in Flutter and React Native from India.</h3>
 
 
 ## 🙋‍♂️ About Me
