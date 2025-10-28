@@ -1,14 +1,14 @@
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
 
-<h1 align="center">Hi 👋, I'm Shivam</h1>
-<h3 align="center">I'm a passionate Web Developer and App Developer from India.</h3>
+<h1 align="center">Hi 👋, I'm Shivam Nayak</h1>
+<h3 align="center">💻 Passionate App Developer specializing in Flutter and React Native from India 🇮🇳</h3>
 
 
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **Datopic Technologies Private Limited**
 
-- 🌱 I’m currently learning **Flutter and Dart**
+- 🌱 Experienced in **Flutter**, **Dart**, and **React Native** for over 3 years
 
 <!-- - 👯 I’m looking to collaborate on **OpenSource Projects** -->
 
@@ -21,6 +21,15 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
+<a href="https://flutter.dev/" target="_blank"> 
+        <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="flutter"/> 
+    </a>
+    <a href="https://dart.dev/" target="_blank"> 
+        <img src="https://img.icons8.com/color/48/000000/dart.png" alt="dart"/> 
+    </a>
+    <a href="https://reactnative.dev/" target="_blank"> 
+        <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="react-native"/> 
+    </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
@@ -35,8 +44,6 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-     <!-- <a href="https://flutter.dev/" target="_blank"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAAAXNSR0IArs4c6QAAAPhJREFUSEvF1m0NwjAQBuD3ZgAkIAEJ4AAHIKFSKmFIQAESQAozwJFmgZCl3XofzfZ3TZ679no9wkofreTCBw4c8MYmm0SHAZHi9J8dDtyDcc6ijAEdDoj09IWVaApCn7EB1cNGVAc7oHLYCZXBjmg97IzWwQ3QZbgROg83RMuwBA28B+MOYJttm4QrIl3qWmYJnvZeJSrbake0vric0WU4rQic3tL+97QZtvf/nGWvkxNal/E3zMA7MB4z1XtDpFPtKCXNuDxtAC8QjrlpIxeMDB7P3AWXw064DnbA9bARt8EG3A6PeChes1TtTQb62os7WeeTsQL/AKycvR8I7P15AAAAAElFTkSuQmCC" alt="express" width="40" height="40"/> </a>
-      <a href="https://dart.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> -->
 </p>
 
 
